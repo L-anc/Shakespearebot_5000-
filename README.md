@@ -1,1 +1,3 @@
-# Shakespearebot_5000-
+# Shakespearebot_5000
+
+William Shakespeare is perhaps the most famous poet and playwright of all time. Shakespeare is known for works such as Hamlet and his 154 sonnets. Shakespeare’s poems are nice for generative modeling because they follow a specific format, known as the Shakespearean (or English) sonnet. Each sonnet is 14 lines, spread into 3 quatrains (section with 4 lines) followed by a couplet (section with 2 lines). The third quatrain is known as the volta and has a change in tone or content. Shakespearean sonnets have a particular rhyme scheme, which is abab cdcd efef gg. Shakespearean sonnets also follow a specific meter called iambic pentameter3. All lines are exactly 10 syllables long, and have a pattern of unstressed stress. The goal for this project is to generate poems that Shakespeare may have written by training a HMM on his 154 sonnets. His sonnets are available in the data file shakespeare.txt
